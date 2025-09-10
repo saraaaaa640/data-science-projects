@@ -87,4 +87,3 @@ git clone <repo_url>
 
 ---
 
-Do you want me to do that?
