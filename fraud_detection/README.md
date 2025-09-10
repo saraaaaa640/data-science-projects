@@ -1,4 +1,4 @@
-Nice — good choice. I’ll give you a no-fluff, end-to-end plan you can follow line-by-line: where to get data, what to build, exact steps, tools, evaluation tips, pitfalls, and a short folder + notebook template. If you want I’ll also generate starter code/notebook for one of the datasets below (say the Kaggle credit card dataset).
+ # Credit card darud detection 
 
 # Quick dataset picks (start here)
 
