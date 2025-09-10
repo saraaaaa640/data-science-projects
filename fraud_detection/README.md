@@ -1,5 +1,3 @@
-Here’s a professional, clear **README template for your GitHub repository**, tailored for your credit card fraud detection project. I also indicate where to add visuals and give you optional code snippets for generating them.
-
 ---
 
 # **Credit Card Fraud Detection**
