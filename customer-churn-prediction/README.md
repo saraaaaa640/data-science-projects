@@ -70,13 +70,7 @@ Trained and compared multiple models:
    cd customer-churn-prediction
    ```
 
-2. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Open the notebooks:
+2. Open the notebooks:
 
    ```bash
    jupyter notebook
@@ -104,5 +98,3 @@ This project uses the **IBM Telco Customer Churn** dataset, available on Kaggle:
 This project provides an end-to-end churn prediction pipeline, from EDA to model comparison. It highlights how preprocessing choices (like class balancing) directly affect model outcomes and offers practical insights for improving customer retention strategies.
 
 ---
-
-Do you want me to also prepare a **requirements.txt** with the exact libraries you’ll need (pandas, scikit-learn, xgboost, imbalanced-learn, etc.) so you can add it to the repo?
