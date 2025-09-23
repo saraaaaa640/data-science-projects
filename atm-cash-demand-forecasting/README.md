@@ -126,6 +126,3 @@ Dataset contains:
 Contributions are welcome! Feel free to fork this repo, create a branch, and submit a pull request.
 
 ---
-
-
-Do you want me to also prepare a **requirements.txt** file with all the necessary libraries so your repo is fully plug-and-play?
